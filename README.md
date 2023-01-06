@@ -5,7 +5,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Ujjalzaman/Easy-Consulting-react
+   git clone webaddress
    ```
 2. Install NPM packages
    ```sh
